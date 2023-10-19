@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    text-align: justify;
+}
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+h1 {
+    color: #333;
+}
+p {
+    color: #666;
+    font-size: 18px;
+    line-height: 1.6;
+}
+.left-align {
+    float: left;
+    margin-right: 20px;
+}
+.language {
+    margin-bottom: 10px;
+}
+
+.flag-icon-es::before {
+    content: "\f1e2"; /* Código Unicode da bandeira da Espanha na biblioteca "flag-icon-css" */
+    margin-right: 10px; /* Espaço entre o ícone e o texto */
+    font-family: "Font Awesome 5 Free";
+}
+
+.flag-icon-us::before {
+    content: "\f1e7"; /* Código Unicode da bandeira dos Estados Unidos na biblioteca "flag-icon-css" */
+    margin-right: 10px; /* Espaço entre o ícone e o texto */
+    font-family: "Font Awesome 5 Free";
+}
