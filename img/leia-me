@@ -1,0 +1,20 @@
+# Pasta de Imagens
+
+Esta pasta contém imagens relacionadas ao meu projeto. Aqui estão algumas informações sobre o conteúdo desta pasta:
+
+- `eu.jpg`: Foto usada para exibição na pagina sobre mim.
+
+
+Certifique-se de manter este diretório organizado e adicionar descrições relevantes para as imagens sempre que necessário.
+
+## Como Usar
+
+Você pode usar as imagens desta pasta em seu projeto da seguinte forma:
+
+1. Copie o caminho da imagem desejada.
+2. Cole o caminho da imagem em seu código HTML, CSS ou qualquer outro lugar onde precise referenciar a imagem.
+
+Exemplo de código HTML:
+
+```html
+<img src="caminho/para/eu.jpg" alt="Descrição da imagem 1">
